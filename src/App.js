@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <BACCalculator />
-      <Box mt={4} textAlign="center">
+      <Box m={2} textAlign="center">
         <Typography variant="body2" color="textSecondary">
           Product of Sai Krishna Chimakurthi
         </Typography>
